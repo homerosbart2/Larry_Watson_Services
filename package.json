@@ -1,0 +1,39 @@
+{
+  "name": "Larry_Watson_Services",
+  "version": "1.0.0",
+  "description": "Watson Services project with TJBot.",
+  "main": "index.js",
+  "dependencies": {
+    "fs": ">=0.0.1-security",
+    "node-aplay": ">=1.0.3",
+    "readline": ">=1.3.0",
+    "watson-developer-cloud": ">=2.34.0",
+    
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "sudo node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/homerosbart2/Larry_Watson_Services.git"
+  },
+  "keywords": [],
+  "author": "InnovationLabUG",
+  "contributors": [
+    {
+      "name": "Sofía Cárdenas",
+      "email": "ascardenas@galileo.edu",
+    },
+    {
+       "name": "Henry Campos",
+       "email": "henry.campos@galileo.edu"
+    }
+
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ascardenas/larry/issues"
+  },
+  "homepage": "https://github.com/ascardenas/larry#readme"
+}
